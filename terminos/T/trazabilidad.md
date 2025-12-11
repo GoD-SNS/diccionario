@@ -1,0 +1,3 @@
+# Trazabilidad
+
+La trazabilidad (También llamado linaje de datos) permite rastrear el origen, las transformaciones y el movimiento de los datos a lo largo del tiempo. Esta característica es fundamental para garantizar la rendición de cuentas y la comprensión del contexto de los datos. La trazabilidad de datos permite seguir el recorrido completo de un dato, incluyendo sus fuentes, transformaciones y flujos, para garantizar transparencia, calidad y capacidad de auditoría en entornos complejos (McClatchey et al.(2015). Chee et al. (2014) proponen un marco basado en metadatos para fortalecer la gobernanza en BI garantizando mayor confiabilidad y rendición de cuentas en los productos analíticos.

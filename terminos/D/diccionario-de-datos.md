@@ -1,0 +1,3 @@
+# Diccionario de datos.
+
+Un diccionario de datos es un catálogo estructurado que describe los elementos clave de una base de datos, incluyendo nombre, definición, tipo de dato, valores permitidos, nivel de sensibilidad y origen. Funciona como referencia común para garantizar el uso correcto y consistente de la información, especialmente en proyectos analíticos y de BI, donde es crucial mantener la precisión y confiabilidad de los datos. Su implementación facilita la interpretación adecuada y estandariza el manejo de la información entre distintos usuarios y sistemas (Agencia Digital de Innovación Pública – Ciudad de México, s. f.).
