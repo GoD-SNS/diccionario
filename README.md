@@ -12,7 +12,7 @@ Este proyecto es un diccionario interactivo y estructurado que contiene término
 
 ## Contenido
 1. [Estructura del proyecto](#estructura-del-proyecto)
-2. [¿Cómo funciona?](#¿cómo-funciona)
+2. [¿Cómo funciona?](#cómo-funciona)
     1. [Organización de términos](#organización-de-términos)
     2. [Navegación](#navegación)
 3. [Guía de trabajo](#guía-de-trabajo)
